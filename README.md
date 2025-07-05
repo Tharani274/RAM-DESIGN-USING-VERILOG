@@ -16,4 +16,6 @@ The provided simple_sync_ram Verilog module creates a parameterized, single‑po
 In summary, this simple_sync_ram module expertly balances simplicity with practical hardware mapping: its clean parameterization promotes reuse with different data and address widths; its fully synchronous, single-edge behavior eliminates timing ambiguity; its write‑first behavior on simultaneous access matches common FPGA BRAM modes; and its adherence to vendor‑recommended styles ensures reliable synthesis into efficient memory blocks. This makes it a robust building block for FIFOs, data buffers, small caches, instruction RAM, or any digital design where moderate memory storage is needed and predictable timing behavior is paramount.
 
 
+OUTPUT
 
+<img width="1349" height="650" alt="Image" src="https://github.com/user-attachments/assets/3d648e9f-33c2-44e9-99c3-b53c53b872d8" />
